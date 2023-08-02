@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="icon" href="img/favicon-red.png" type="image/png">
+    <title>Motodeal</title>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="vendors/icomoon-icon/style.css">
+    <link rel="stylesheet" href="vendors/themify-icon/themify-icons.css">
+    <!-- Extra Plugin CSS -->
+    <link rel="stylesheet" href="vendors/datetimepicker/tempusdominus-bootstrap-4.min.css">
+    <link rel="stylesheet" href="vendors/nice-select/css/nice-select.css">
+    <link rel="stylesheet" href="vendors/owl-carousel/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="vendors/slick/slick.css">
+    <link rel="stylesheet" href="vendors/slick/slick-theme.css">
+    <link rel="stylesheet" href="vendors/animation/animate.css">
+    <link rel="stylesheet" href="vendors/popup/magnific-popup.css">
+    <link rel="stylesheet" href="vendors/animate-css/animate.css">
+    <link rel="stylesheet" href="vendors/jquery-ui/jquery-ui.css">
+    <!-- main css -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <style>
+      .btn-whatsapp-pulse {
+      background: #25d366;
+      color: white;
+      position: fixed !important;
+      bottom: 20px !important;
+      right: 20px !important;
+      font-size: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 0;
+      height: 0;
+      padding: 35px;
+      text-decoration: none;
+      border-radius: 50%;
+      animation-name: pulse;
+      animation-duration: 1.5s;
+      animation-timing-function: ease-out;
+      animation-iteration-count: infinite;
+      }
+      .btn-call-pulse {
+      background: red;
+      color: white;
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      font-size: 40px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      width: 0;
+      height: 0;
+      padding: 35px;
+      text-decoration: none;
+      border-radius: 50%;
+      animation-name: pulse;
+      animation-duration: 1.5s;
+      animation-timing-function: ease-out;
+      animation-iteration-count: infinite;
+      }
+      @keyframes pulse {
+      0% {
+      box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.5);
+      }
+      80% {
+      box-shadow: 0 0 0 14px rgba(37, 211, 102, 0);
+      }
+      }
+      .btn-whatsapp-pulse-border {
+      bottom: 120px;
+      right: 20px;
+      animation-play-state: paused;
+      }
+      .btn-whatsapp-pulse-border::before {
+      content: "";
+      position: absolute;
+      border-radius: 50%;
+      padding: 25px;
+      border: 5px solid #25d366;
+      opacity: 0.75;
+      animation-name: pulse-border;
+      animation-duration: 1.5s;
+      animation-timing-function: ease-out;
+      animation-iteration-count: infinite;
+      }
+      .btn-call-pulse-border {
+      bottom: 120px;
+      right: 20px;
+      animation-play-state: paused;
+      }
+      .btn-call-pulse-border::before {
+      content: "";
+      position: absolute;
+      border-radius: 50%;
+      padding: 25px;
+      border: 5px solid red;
+      opacity: 0.75;
+      animation-name: pulse-border;
+      animation-duration: 1.5s;
+      animation-timing-function: ease-out;
+      animation-iteration-count: infinite;
+      }
+      @keyframes pulse-border {
+      0% {
+      padding: 25px;
+      opacity: 0.75;
+      }
+      75% {
+      padding: 50px;
+      opacity: 0;
+      }
+      100% {
+      opacity: 0;
+      }
+      }
+    </style>
+  </head>
+  <body data-scroll-animation="true">
+    <!--================Footer Area =================-->
+    <footer class="footer_area red_footer_area ab_footer">
+      <div class="footer_widgets">
+        <div class="container">
+          <div class="row f_widgets_inner">
+            <div class="col-lg-6 col-sm-6 wow animated fadeInUp" data-wow-delay="0.2s">
+              <aside class="f_widget about_widget">
+                <a class="f_logo" href="index.html"><img src="img/logo-project-02.jpg"  alt="bar"></a>
+                <div class="f_title-head">
+                  <h5>Garage Address</h5>
+                </div>
+                <p><i class="icon-map_marker_2" aria-hidden="true"></i> 87, 2nd I cross, Ramaiah layout, Kammanahalli, Bangalore</p>
+                <p><i class="icon-map_marker_2" aria-hidden="true"></i> 252, 8th Cross, Bheemanna Garden, Langford town, Shanti nagar, Bangalore</p>
+                <p><i class="icon-map_marker_2" aria-hidden="true"></i> No 447, 3rd 'A' main road, 2nd phase, 6th block, Banashankari 3rd stage, Bangalore.</p>
+                <div class="f_title-head">
+                  <h5>Address</h5>
+                </div>
+                <p><i class="icon-map_marker_2" aria-hidden="true"></i>Shop No 313/1, 9th main, 26th cross,Banashankari 2nd Stage, Bangalore</p>
+              </aside>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow animated fadeInUp" data-wow-delay="0.4s">
+              <aside class="f_widget link_widget">
+                <div class="f_title">
+                  <h3>Our info</h3>
+                </div>
+                <ul class="nav flex-column">
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="about.html">About us</a></li>
+                  <li><a href="services.html">Our Services</a></li>
+                  <li><a href="luxury-car-rental.html">Our Fleet</a></li>
+                  <li><a href="contact.html">Contact us</a></li>
+                </ul>
+              </aside>
+            </div>
+            <div class="col-lg-3 col-sm-6 wow animated fadeInUp" data-wow-delay="0.8s">
+              <aside class="f_widget about_widget">
+                <div class="f_title">
+                  <h3>Contact Now</h3>
+                </div>
+                <a href="mailto: info@suvihaarcarrental.com"><i class="icon-envelop_2" aria-hidden="true"></i> <span> info@suvihaarcarrental.com</span></a>
+                <a href="tel:7892673522"><i class="icon-phone_2" aria-hidden="true"></i> +91 789 267 3522</a>
+                <a href="tel:7975003590"><i class="icon-phone_2" aria-hidden="true"></i> +91 797 500 3590</a>
+              </aside>
+              <aside class="f_widget subscribe_widget">
+                <ul class="nav">
+                  <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                  <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                  <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                </ul>
+              </aside>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="footer_card wow animated fadeIn" data-wow-delay="0.4s">
+        <div class="container">
+          <div class="f_card_inner d-flex justify-content-between">
+            <div class="left">
+              <p>
+                We accept Cash and UPI. 
+                <br />Thanks for your support...
+              </p>
+            </div>
+            <div class="right">
+              <ul class="nav">
+                <li><a href="#"><img src="img/icon/card-1.png" alt=""></a></li>
+                <li><a href="#"><img src="img/icon/card-2.png" alt=""></a></li>
+                <li><a href="#"><img src="img/icon/card-3.png" alt=""></a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <a href="https://wa.me/7975003590?text=Hello!" target="_blank" class="btn-whatsapp-pulse">
+        <i class="fa fa-whatsapp"></i>
+        </a>
+        <a href="tel:7892673522" class="btn-call-pulse btn-call-pulse-border">
+        <i class="fa fa-phone"></i>
+        </a>
+      </div>
+      <div class="footer_copyright">
+        <div class="container">
+          <div class="copyright_inner d-flex justify-content-between">
+            <div class="left">
+              <p>
+                &#169; Copyright - <a href="index.html">Suvihaar Luxury Car Rentals</a> <script>document.write(new Date().getFullYear());</script> | All rights are reserved
+              </p>
+            </div>
+            <div class="right">
+              <ul class="nav">
+                <li><a href="terms-conditions.html">Terms of use</a></li>
+                <li><a href="privacy-policy.html">Privacy Policy</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </footer>
+    <!--================End Footer Area =================-->
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Extra Plugin js -->
+    <script src="vendors/datetimepicker/moment.js"></script>
+    <script src="vendors/datetimepicker/tempusdominus-bootstrap-4.min.js"></script>
+    <script src="vendors/nice-select/js/jquery.nice-select.min.js"></script>
+    <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+    <script src="vendors/isotope/isotope.pkgd.min.js"></script>
+    <script src="vendors/slick/slick.min.js"></script>
+    <script src="vendors/popup/jquery.magnific-popup.min.js"></script>
+    <script src="vendors/animate-css/wow.min.js"></script>
+    <script src="vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="js/theme-dist.js"></script>
+  </body>
+</html>

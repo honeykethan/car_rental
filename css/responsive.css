@@ -1,0 +1,2716 @@
+@media (max-width:1800px){
+	.find_map_area .finding_map {
+		margin-left: 0px;
+	}
+	.finding_list .find_loc_itme .main_btn {
+		margin-right: 5px;
+	}
+}
+@media (max-width:1620px){
+	.finding_list .find_loc_itme .main_btn {
+		margin-right: 0px;
+	}
+	.finding_list {
+		margin-right: -30px; 
+	}
+}
+@media (max-width:1500px){
+	.finding_list .find_loc_itme .main_btn {
+		margin-right: 0px;
+		width: 200px;
+		text-align: center;
+	}
+	.finding_list .find_loc_itme .main_btn + .main_btn {
+		margin-top: 15px;
+	}
+}
+@media (max-width:1440px){
+	.market_inner .car_img .nav li {
+		left: 0px;
+		top: 0px;
+	}
+	.market_inner .car_img .nav li:nth-child(2) {
+		top: auto;
+		bottom: 00px;
+		left: 0px;
+	}
+	
+}
+@media (max-width:1400px){
+	.main_slider.luxuary_slider .slider_item .slider_text {
+		padding-left: 100px;
+	}
+}
+@media (max-width:1365px){
+	.trusted_img img{
+		max-width: 100%;
+	}
+	.p_30 {
+    padding-bottom: 70px;
+    }
+}
+@media (max-width:1300px){
+	.single_blog_inner .blog_item .blog_text .single_social {
+		position: relative;
+		left: 0px;
+		top: 0px;
+		width: 100%;
+		margin-top: 25px;
+	}
+	.single_social a {
+		margin-bottom: 0px;
+		display: inline-block;
+		margin-right: 15px;
+	}
+	.main_slider_area .slider_nav .arrow_left {
+		left: 0px;
+	}
+	.main_slider_area .slider_nav .arrow_right {
+		right: 0px;
+	}
+}
+@media (max-width:1199px){
+	.auto_market_area .market_inner .market_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.main_slider.luxuary_slider {
+		height: 750px;
+	}
+	.auto_market_area .market_inner .market_text .nav.nav-tabs li a {
+		padding: 0px 26px;
+	}
+	.search_car_item .submit_btn{
+		padding: 0px 27px;
+	}
+	.download_app_area .mobile_img{
+		margin-right: -100px;
+	}
+	.download_app_area .download_text {
+		padding-left: 65px;
+	}
+	.takes_area .takes_text{
+		margin-left: -100px;
+	}
+	.find_form_inner .find_item .submit_btn {
+		padding: 0px 25px;
+		width: 100%;
+	}
+	.find_form_inner .find_item {
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+		margin-bottom: 20px;
+	}
+	.find_form_inner {
+		padding-bottom: 30px;
+	}
+	.market_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.market_text .maket_item_inner .media .media-body h4 {
+		font: bold 20px "Barlow", sans-serif;
+	}
+	.l_collection_item .text_body h4 {
+		font: bold 20px "Barlow", sans-serif;
+	}
+	.l_collection_item .text_body h5 {
+		font: bold 20px "Barlow", sans-serif;
+	}
+	.easy_way .easy_text {
+		padding: 30px 25px 30px 25px;
+	}
+	.car_about_inner .c_ab_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.l_collection_item.grid_four .text_footer a{
+		font-size: 14px;
+	}
+	.l_collection_item.grid_four .text_body h4 {
+		font-size: 16px;
+	}
+	.l_collection_item.grid_four .text_body h5 {
+		font-size: 16px;
+	}
+	.download_app_area.download_taxi_area .download_text {
+		padding: 20px;
+	}
+	.download_app_area.download_taxi_area .mobile_img {
+		margin-left: -63px;
+		margin-right: 0px;
+	}
+	.truck_type_slider .t_type_itme .t_type_text {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.all_yacht_item .yacht_text h5 {
+		font: normal 16px "Barlow", sans-serif;
+		padding-left: 6px;
+	}
+	.cart_box {
+		padding: 30px 15px;
+	}
+	.cart_box .cart_list_inner .list_itme .left {
+		max-width: 120px;
+	}
+	.cart_details_area .cart_details_inner .table tfoot .table_footer td:last-child .main_btn {
+		right: 0px;
+		white-space: nowrap;
+		margin-left: -66px;
+	}
+	.cart_details_area .cart_details_inner .table tbody tr td.price {
+		padding-left: 0px;
+		white-space: nowrap;
+	}
+	.cart_details_area .cart_details_inner .table tbody tr td.price i {
+		margin-left: 15px;
+	}
+	.shipping .radio_group:checked + label, .shipping .radio_group:not(:checked) + label {
+		padding-left: 25px;
+		font: normal 15px "Barlow", sans-serif;
+	}
+	.order_box_price .payment_list {
+		padding: 30px 15px;
+	}
+	.compare_car_item .main_btn {
+		padding: 0px 18px;
+	}
+	.car_comparisom_item .comparisom_text h4 {
+		font: bold 20px "Barlow", sans-serif;
+	}
+	.car_comparisom_blank_item {
+		padding: 13px 15px;
+	}
+	.cur_club_area .car_club_inner .car_club_text .nav li a {
+		font: normal 13px "Barlow", sans-serif;
+	}
+	.product_details_left .product_info a {
+		margin-bottom: 10px;
+	}
+	.product_list_item .media-body .pro_op a {
+		margin-right: 20px;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .main_btn {
+		padding: 0px 22px;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .navbar-nav li {
+		margin-right: 30px;
+	}
+	.main_slider {
+		height: 700px;
+	}
+	.main_slider .slider_item .slider_text {
+		margin-top: -40px;
+	}
+	.single_br_title h2::before {
+		font: bold 132px "Barlow", sans-serif;
+	}
+	.middle_menu .right .media {
+		margin-right: 15px;
+	}
+	.middle_menu .right .media .media-body h6 {
+		font: 600 15px "Barlow", sans-serif;
+	}
+	.middle_menu .right .media .media-body a {
+		font: 600 15px "Barlow", sans-serif;
+	}
+	.main_slider .slider_item .image_overlay {
+		background-position: center center !important;
+	}
+	.header_area.menu_two.menu_ten .main_menu .navbar.navbar-expand-lg .navbar-nav > li {
+		margin-right: 5px;
+	}
+	.header_area.menu_ten .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .search::before {
+		left: 0px;
+	}
+	.header_area.menu_ten .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li:last-child {
+		margin-right: 0px;
+	}
+	.header_area.menu_ten + section, .header_area.menu_ten + div, .header_area.menu_ten + footer {
+		margin-top: 132px;
+	}
+	.header_area.menu_ten.menu_eleven + section, .header_area.menu_ten + div, .header_area.menu_ten + footer {
+		margin-top: 132px;
+	}
+	.header_area.menu_eight .main_menu .navbar.navbar-expand-lg .navbar-nav li {
+		margin-right: 4px;
+	}
+    .main_contact_inner.trade_container{
+        max-width: 100%;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .main_contact_inner.trade_container .form_trade {
+        padding: 0px 25px 60px;
+    }
+}
+@media (max-width:1100px){
+	.header_area.menu_seven::before {
+		display: none;
+	}
+	.luxuary_slider_area::before {
+		display: none;
+	}
+}
+@media (max-width:991px){
+	.header_area{
+		z-index: 35;
+	}
+	.navbar-light .navbar-toggler {
+		cursor: pointer;
+		position: relative;
+		height: 20px;
+		width: 30px;
+		top: 0px;
+		border: none;
+		padding: 0px;
+		margin-top: 26px;
+		margin-bottom: 26px;	
+	}
+	.menu_eight .navbar-light .navbar-toggler {
+		margin-right: 15px;
+	}
+	.navbar-light .navbar-toggler span {
+		height: 2px;
+		width: 30px;
+		display: block;
+		background: #fff;
+		cursor: pointer;
+		position: absolute;
+		left: 0px;
+		top: 50%;
+	}
+	
+	
+	
+	.header_area.navbar_fixed .navbar-light .navbar-toggler span {
+		background: #0cc533;
+	}
+	.header_area.navbar_fixed .navbar-light .navbar-toggler span::before {
+		background: #0cc533;
+	}
+	.header_area.navbar_fixed .navbar-light .navbar-toggler span::after {
+		background: #0cc533;
+	}
+	.header_area.navbar_fixed.menu_two.menu_three .navbar-light .navbar-toggler span {
+		background: #ff2a39;
+	}
+	.header_area.navbar_fixed.menu_two.menu_three .navbar-light .navbar-toggler span::before {
+		background: #ff2a39;
+	}
+	.header_area.navbar_fixed.menu_two.menu_three .navbar-light .navbar-toggler span::after {
+		background: #ff2a39;
+	}
+	.header_area.navbar_fixed.menu_seven .navbar-light .navbar-toggler span {
+		background: #fff;
+	}
+	.header_area.navbar_fixed.menu_seven .navbar-light .navbar-toggler span::before {
+		background: #fff;
+	}
+	.header_area.navbar_fixed.menu_seven .navbar-light .navbar-toggler span::after {
+		background: #fff;
+	}
+	.header_area.navbar_fixed.menu_eight .navbar-light .navbar-toggler span {
+		background: #34373b;
+	}
+	.header_area.navbar_fixed.menu_eight .navbar-light .navbar-toggler span::before {
+		background: #34373b;
+	}
+	.header_area.navbar_fixed.menu_eight .navbar-light .navbar-toggler span::after {
+		background: #34373b;
+	}
+	.header_area.navbar_fixed.menu_four .navbar-light .navbar-toggler span::before {
+		background: #f75d34;
+	}
+	.header_area.navbar_fixed.menu_four .navbar-light .navbar-toggler span::after {
+		background: #f75d34;
+	}
+	
+	.header_area.navbar_fixed.menu_four .navbar-light .navbar-toggler span {
+		background: #f75d34;
+	}
+	.header_area.navbar_fixed.menu_two .navbar-light .navbar-toggler span {
+		background: #ea2626;
+	}
+	.header_area.navbar_fixed.menu_two .navbar-light .navbar-toggler span::before {
+		background: #ea2626;
+	}
+	.header_area.navbar_fixed.menu_two .navbar-light .navbar-toggler span::after {
+		background: #ea2626;
+	}
+	.header_area.navbar_fixed.menu_four.menu_five .navbar-light .navbar-toggler span {
+		background: #ff2a39;
+	}
+	.header_area.navbar_fixed.menu_four.menu_five .navbar-light .navbar-toggler span:before {
+		background: #ff2a39;
+	}
+	.header_area.navbar_fixed.menu_four.menu_five .navbar-light .navbar-toggler span:after {
+		background: #ff2a39;
+	}
+	.header_area.navbar_fixed.menu_two.menu_nine .navbar-light .navbar-toggler span {
+		background: #0cc533;
+	}
+	.header_area.navbar_fixed.menu_two.menu_nine .navbar-light .navbar-toggler span:before {
+		background: #0cc533;
+	}
+	.header_area.navbar_fixed.menu_two.menu_nine .navbar-light .navbar-toggler span:after {
+		background: #0cc533;
+	}
+	
+	
+	
+	.header_area.navbar_fixed.menu_two.menu_ten .navbar-light .navbar-toggler span {
+		background: #f75d34;
+	}
+	.menu_five .navbar-light .navbar-toggler span {
+		background: #ff2a39;
+	}
+	.menu_eight .navbar-light .navbar-toggler span {
+		background: #34373b;
+	}
+	.menu_nine.menu_nine .navbar-light .navbar-toggler span {
+		background: #0cc533;
+	}
+	.navbar-light .navbar-toggler[aria-expanded="true"] span {
+		background: transparent !important;
+	}
+	.navbar-light .navbar-toggler.collapsed span {
+		background: #fff;
+	}
+	.menu_eight .navbar-light .navbar-toggler.collapsed span {
+		background: #34373b;
+	}
+	
+	
+	
+	.menu_seven .navbar-light .navbar-toggler.collapsed span { 
+		background: #fff;
+	}
+	.menu_seven .navbar-light .navbar-toggler span:before {
+		background: #fff; 
+	}
+	.menu_seven .navbar-light .navbar-toggler span:after {
+		background: #fff; 
+	}
+	.menu_seven .navbar-light .navbar-toggler span {
+		background: #fff;
+	}
+	.menu_two.menu_six .navbar-light .navbar-toggler span {
+		background: #f75d34;
+	}
+	.menu_two.menu_six .navbar-light .navbar-toggler span:before {
+		background: #f75d34; 
+	}
+	.menu_two.menu_six .navbar-light .navbar-toggler span:after {
+		background: #f75d34; 
+	}
+	.menu_four .navbar-light .navbar-toggler span {
+		background: #f75d34;
+	}
+	.menu_four .navbar-light .navbar-toggler.collapsed span {
+		background: #f75d34;
+	}
+	.menu_four .navbar-light .navbar-toggler span:before {
+		background: #f75d34; 
+	}
+	.menu_four .navbar-light .navbar-toggler span:after {
+		background: #f75d34; 
+	}
+	.menu_two.menu_ten .navbar-light .navbar-toggler.collapsed span {
+		background: #f75d34;
+	}
+	.menu_two.menu_ten .navbar-light .navbar-toggler span:before {
+		background: #f75d34; 
+	}
+	.menu_two.menu_ten .navbar-light .navbar-toggler span:after {
+		background: #f75d34; 
+	}
+	.menu_five .navbar-light .navbar-toggler.collapsed span {
+		background: #ff2a39;
+	}
+	.menu_five .navbar-light .navbar-toggler span:before {
+		background: #ff2a39; 
+	}
+	.menu_five .navbar-light .navbar-toggler span:after {
+		background: #ff2a39;
+	}
+	.menu_two.menu_ten.menu_eleven .navbar-light .navbar-toggler.collapsed span {
+		background: #ff575d;
+	}
+	.menu_two.menu_ten.menu_eleven .navbar-light .navbar-toggler span:before {
+		background: #ff575d; 
+	}
+	.menu_two.menu_ten.menu_eleven .navbar-light .navbar-toggler span:after {
+		background: #ff575d;
+	}
+	.menu_two.menu_nine .navbar-light .navbar-toggler.collapsed span {
+		background: #0cc533;
+	}
+	.navbar-light .navbar-toggler span:before {
+		content: "";
+		height: 2px;
+		width: 30px;
+		display: block;
+		background: #fff; 
+		left: 0px;
+		top: -10px;
+		position: absolute;
+		transition: top .3s .3s, -webkit-transform .3s 0s;
+	}
+	.menu_eight .navbar-light .navbar-toggler span:before {
+		background: #34373b; 
+	}
+	.menu_two.menu_nine .navbar-light .navbar-toggler span:before {
+		background: #0cc533; 
+	}
+	.navbar-light .navbar-toggler span:after {
+		content: "";
+		height: 2px;
+		width: 30px;
+		display: block;
+		background: #fff;
+		left: 0px;
+		bottom: -10px;
+		position: absolute;
+		transition: bottom .2s .3s, -webkit-transform .3s 0s;
+	}
+	.menu_eight .navbar-light .navbar-toggler span:after {
+		background: #34373b;
+	}
+	.header_area.navbar_fixed.menu_eight .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li:hover > a, .header_area.navbar_fixed.menu_eight .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li.active > a {
+		line-height: 49px;
+	}
+	.menu_two.menu_nine .navbar-light .navbar-toggler span:after {
+		background: #0cc533;
+	}
+	.navbar-light .navbar-toggler[aria-expanded="true"] span:before {
+		transform: rotate(45deg);
+		top: 0px;
+		transition: top .3s 0s, transform .3s .3s, -webkit-transform .3s .3s;
+	}
+	.navbar-light .navbar-toggler[aria-expanded="true"] span:after {
+		transform: rotate(-45deg); 
+		bottom: 0px;
+		transition: bottom .3s 0s, transform .3s .3s, -webkit-transform .3s .3s;
+	}
+	.header_area + section, .header_area + div, .header_area + footer {
+		margin-top: 0px;
+	}
+    .dropdown.show > .menu_icon:after{
+        transform: scale(0);
+    }
+    .main_menu .navbar.navbar-expand-lg .navbar-nav li.submenu .dropdown-menu li a i{
+        display: none;
+    }
+	.menu_two .navbar-light .navbar-toggler[aria-expanded="true"] span {
+		background: transparent;
+	}
+	.main_menu .navbar-collapse{
+		background: #fff;
+        max-height: 400px;
+        overflow-y: scroll;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li {
+		margin-right: 0px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li a {
+		line-height: 48px;
+		padding: 0px 20px;
+		border-bottom: 1px solid rgba(0, 0, 0, .1);
+		color: #34373b;
+	}
+	.main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .main_btn {
+		width: 100%;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.submenu .dropdown-menu li:last-child a {
+		border-bottom: 1px solid #dcdcdc !important;
+	}
+	.main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .main_btn:hover {
+		border-bottom-color: #0cc533;
+	}
+	.main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li {
+		width: 100%;
+		text-align: center;
+	}
+	.main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right {
+		margin-left: 0px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li:hover a, .main_menu .navbar.navbar-expand-lg .navbar-nav li.active a {
+		color: #34373b;
+	}
+	.main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .main_btn:hover {
+		color: #0cc533;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .navbar-nav li a {
+		line-height: 49px;
+		padding: 0px 0px;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .navbar-nav li {
+		margin-right: 0px;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right {
+		margin-left: 0px;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .search::before {
+		display: none;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .cart::before {
+		top: 10px;
+		left: 50%;
+		right: auto;
+	}
+	.header_area.menu_two .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .main_btn {
+		padding: 0px 22px;
+		line-height: 58px;
+	}
+	.header_area.menu_two + section, .header_area.menu_two + div, .header_area.menu_two + footer {
+		margin-top: 72px;
+	}
+	.header_area.menu_two {
+		background: #fff;
+	}
+	.menu_two .main_menu{
+		border: none;
+	}
+	.header_area.menu_four.menu_five .main_menu .navbar.navbar-expand-lg .navbar-nav > li > a {
+		line-height: 48px;
+		padding: 0px 0px; 
+	}
+	.menu_eight .main_menu .navbar-collapse {
+		background: transparent;
+	}
+	.header_area.menu_eight .main_menu .navbar.navbar-expand-lg .navbar-nav li {
+		margin-right: 0px;
+	}
+	.header_area.menu_eight .main_menu .navbar.navbar-expand-lg .navbar-nav li a {
+		line-height: 49px;
+	}
+	.header_area.menu_eight .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right {
+		margin-left: 0px;
+	}
+	.header_area.menu_eight .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li.booking_btn i {
+		left: 0px;
+	}
+	.header_area.menu_ten .main_menu .navbar.navbar-expand-lg .navbar-nav {
+		border-left: 0px solid #ededed;
+		padding-left: 0px;
+	}
+	.header_area.menu_nine .main_menu .navbar.navbar-expand-lg .navbar-nav li a {
+		padding: 0px 15px;
+	}
+	.header_area.navbar_fixed.menu_nine .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li > a {
+		padding: 0px 15px;
+	}
+	.header_area.menu_two.menu_ten .main_menu .navbar.navbar-expand-lg .navbar-nav > li {
+		margin-right: 0px;
+	}
+	.header_area.menu_ten.menu_eleven + section, .header_area.menu_ten + div, .header_area.menu_ten + footer {
+		margin-top: 72px;
+	}
+
+	.header_area.navbar_fixed .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li > a {
+		line-height: 48px;
+		padding: 0px;
+	}
+	.header_area.navbar_fixed.menu_two .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li > a {
+		line-height: 48px;
+	}
+	.header_area.navbar_fixed.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		display: inline-block;
+	}
+	.header_area.navbar_fixed.menu_seven .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li > a {
+		line-height: 48px;
+	}
+	.header_area.navbar_fixed.menu_four .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li a {
+		color: #34373b;
+		padding: 0px 15px;
+	}
+	.header_area.navbar_fixed.menu_two.menu_three .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li > a {
+		line-height: 48px;
+	}
+	.header_area.navbar_fixed.menu_four.menu_five .main_menu .navbar.navbar-expand-lg .nav.navbar-nav > li a{
+		padding: 0px;
+	}
+	
+	
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		z-index: 2;
+		position: relative;
+		max-width: 75px;
+	}
+	.find_car_area .container .search_car_box .search_car_item {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}	
+	.find_car_area .container .search_car_box .search_car_item:nth-child(2) {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.find_car_area .container .search_car_box .search_car_item:nth-child(3) {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.find_car_area .container .search_car_box .search_car_item:nth-child(4) {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.search_car_item .submit_btn {
+		width: 100%;
+	}
+	.find_car_area .container .search_car_box {
+		padding: 40px 28px 30px 28px;
+	}
+	.choose_area .choose_inner2 .col-lg-4{
+		margin-bottom: 50px;
+	}
+	.choose_area .choose_inner2{
+		margin-bottom: -50px;
+	}
+	.download_app_area .col-lg-5 {
+		display: none;
+	}
+	.download_app_area {
+		padding-top: 65px;
+		padding-bottom: 70px;
+	}
+	.download_app_area .download_text {
+		padding-left: 0px;
+		text-align: center;
+		padding-top: 0px;
+	}
+	.download_app_area .download_text p {
+		padding-right: 0px;
+		max-width: 500px;
+		margin: 0px auto 30px;
+	}
+	.link_widget {
+		margin-left: 0px;
+	}
+	.f_widgets_inner .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.f_widgets_inner{
+		margin-bottom: -30px;
+	}
+	.footer_card .f_card_inner {
+		display: block !important;
+	}
+	.footer_card .f_card_inner .right {
+		margin-top: 15px;
+	}
+	.search_car .select_item {
+		padding-left: 3px;
+		padding-right: 3px;
+	}
+	.search_car .select_item {
+		flex: 0 0 50%;
+		max-width: 50%;
+		margin-bottom: 6px;
+	}
+	.search_car .select_item:last-child {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.brand_area .search_car{
+		padding-bottom: 40px;
+	}
+	.takes_area .takes_text{
+		margin-left: 0px;
+	}
+	.l_blog_item{
+		max-width: 350px;
+		margin: 0px auto 30px;
+	}
+	.market_inner .car_img {
+		display: inline-block;
+	}
+	.market_inner .car_img {
+		margin-bottom: 36px;
+	}
+	.market_text .maket_item_inner .media .media-body p {
+		max-width: 200px;
+	}
+	.b_f_item {
+		max-width: 250px;
+		margin: 0px auto 30px;
+	}
+	.b_feature_inner{
+		margin-bottom: -30px;
+	}
+	.latest_blog_area .l_blog_inner{
+		margin-bottom: -30px;
+        justify-content: center;
+	}
+    .bus_inner{
+        justify-content: center;
+    }
+	.easy_way .nav{
+		display: block;
+	}
+	.bus_item .bus_body {
+		padding: 30px 25px 22px 25px;
+	}
+	.counter_inner .counter_item {
+		margin-bottom: 30px;
+	}
+	.counter_area .counter_inner{
+		margin-bottom: -30px;
+	}
+	.bus_item{
+		max-width: 350px;
+		margin: 0px auto 30px;
+	}
+	.l_bus_item{
+		margin-bottom: 30px;
+	}
+	.latest_bus_inner{
+		margin-bottom: -30px;
+	}
+	.expert_area .expert_inner .blue_expert {
+		margin-right: 0px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		margin-left: 0px;
+	}
+	.car_video {
+		margin-left: 0px;
+		max-width: 658px;
+		margin: 0px auto 0px;
+	}
+	.service_button {
+		margin-right: 30px;
+		margin-top: 50px;
+	}
+	.service_body {
+		margin-left: 0px;
+		margin-top: 0px;
+	}
+	.top_six_menu .top_inner .right p {
+		line-height: 50px;
+		margin-right: 14px;
+	}
+	.our_service_area {
+		margin-bottom: 0px;
+		height: 100%;
+	}
+	.our_service_area{
+		padding-bottom: 100px;
+	}
+	.process_left_text{
+		margin-bottom: 30px;
+	}
+	.trusted_img img{
+		margin-top: 50px;
+	}
+	.taxi_l_item{
+		margin-bottom: 30px;
+	}
+	.taxi_l_news_inner{
+		margin-bottom: -30px;
+        justify-content: center;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_body {
+		margin-left: 0px;
+	}
+	.contact_directly_area .contact_directly_bg .reg_form_inner {
+		background: #fff;
+		max-width: 100%;
+		margin-bottom: 0px;
+	}
+	.contact_directly_area .contact_directly_bg .contact_info {
+		margin-top: 50px;
+	}
+	.contact_directly_area .contact_directly_bg {
+		padding-bottom: 40px;
+		padding-top: 20px;
+	}
+	.luxuary_footer_widget .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.luxuary_footer_widget .l_f_widget_inner{
+		margin-bottom: -30px;
+	}
+	.luxuary_copyright .l_copyright_inner .nav {
+		justify-content: center !important;
+	}
+	.luxuary_copyright .l_copyright_inner {
+		padding: 15px 0px;
+	}
+	.luxuary_copyright .l_copyright_inner::before {
+		width: 100%;
+		background-position: center;
+		background-size: cover;
+	}
+	.car_about_area.truck_video .car_about_inner .car_video {
+		max-width: 100%;
+		width: 100%;
+		margin-right: 0px;
+		margin-top: 0px;
+		margin-bottom: 50px;
+	}
+	.car_about_area.truck_video .car_about_inner .car_video img {
+		width: 100%;
+	}
+	.most_service_area .most_service_inner .most_service_img::before {
+		right: auto;
+		top: 0px;
+		z-index: -1;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.main_slider.repair_slider {
+		height: 700px;
+	}
+	.most_service_text {
+		padding-top: 100px;
+		max-width: 436px;
+		margin: auto;
+	}
+	.find_yacht_area .find_yacht_inner .contact_form .form-group .price_range {
+		margin-right: 0px;
+	}
+	.find_yacht_area .find_yacht_inner .contact_form .form-group .price_range.size {
+		margin-left: 0px;
+		margin-right: 0px;
+	}
+	.find_yacht_area .find_yacht_inner .contact_form .form-group:last-child .submit_btn {
+		width: 100%; 
+	}
+	.boat_types_inner .boat_t_item {
+		margin-bottom: 30px;
+	}
+	.boat_types_inner{
+		margin-bottom: -30px;
+	}
+	.c_ab_text{
+		margin-top: 50px;
+	}
+	.car_about_area.truck_video .car_about_inner .dubble_img img + img {
+		margin-right: 0px;
+	}
+	.car_about_area.truck_video.yacht_dubble_img .counter_inner {
+		margin-bottom: -30px;
+	}
+	.all_yacht_item {
+		max-width: 540px;
+		margin: 0px auto 30px;
+	}
+	.auto_market_area .market_inner .market_image {
+		text-align: center;
+		margin-top: 40px;
+	}
+	.auto_market_area .market_inner .market_text h3 {
+		font: bold 44px "Barlow", sans-serif;
+		margin-bottom: 30px;
+		margin-top: 0px;
+	}
+	.blog_grid_inner .pagination{
+		margin-bottom: 20px;
+	}
+	.right_sidebar_area {
+		padding-left: 0px;
+	}
+	.order_box_price .payment_list {
+		padding: 30px 30px;
+		margin-top: 30px;
+	}
+	.compare_car_area .compare_car_inner .col-md-6{
+		margin-bottom: 30px;
+	}
+	.compare_car_area .compare_car_inner{
+		margin-bottom: -30px;
+	}
+	.contact_info_inner .col-sm-6{
+		margin-bottom: 30px;
+	}
+	.contact_info_inner{
+		margin-bottom: -30px;
+	}
+	.general_ques_inner .accordion .card .card-header button.collapsed {
+		padding-right: 20px;
+	}
+	.general_ques_inner .accordion .card .card-header button i {
+		top: 23px;
+		transform: translateY(0%);
+	}
+	.car_club_inner .car_club_img img{
+		width: 100%;
+	}
+	.cur_club_area .car_club_inner .car_club_text h4 {
+		margin-top: 40px;
+	}
+	.cur_club_area .car_club_inner .car_club_text .nav li a {
+		font: normal 16px "Barlow", sans-serif;
+	}
+	.finding_list {
+		margin: auto;
+	}
+	.finding_list .find_loc_itme .main_btn {
+		margin-left: 42PX;
+	}
+	.product_details_left .product_info a {
+		margin-right: 8.5px;
+		margin-bottom: 0px;
+	}
+	.product_list_right{
+		margin-top: 20px;
+		display:none;
+	}
+	.slick-slide img {
+		display: block;
+		width: 100%;
+	}
+	.middle_menu .right .media .media-body a {
+		font: 600 14px "Barlow", sans-serif;
+	}
+	.product_overview_text .row .col-lg-6:last-child{
+		margin-top: 10px;
+	}
+	.specification_area .right_spec {
+		margin-left: 0px;
+		margin-top: 30px;
+	}
+	.auto_market_area .market_text{
+		margin-top: 50px;
+	}
+	.abs_braking_area .abs_braking_inner .abs_details {
+		margin-top: 50px;
+	}
+	.service_included_inner .col-md-6{
+		margin-bottom: 30px;
+	}
+	.service_included_inner{
+		margin-bottom: -30px;
+	}
+	.product_list_item .media-body .main_btn {
+		right: 10px;
+	}
+	.left_product_sidebar {
+		margin-top: 50px;
+	}
+	.blog_area .right_sidebar_area{
+		margin-top: 50px;
+	}
+/*
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu {
+		display: block;
+	}
+*/
+    .main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu{
+        position: relative;
+    }
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu li {
+		width: 25%;
+		max-width: 100%;
+		float: left;
+		margin-top: 15px;
+		margin-bottom: 15px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu li a {
+		border: none;
+		padding: 0px;
+	}
+	.main_slider .slider_item .slider_text img {
+		width: auto;
+	}
+	.main_slider .slider_item .slider_text h5 {
+		font: normal 32px "Barlow", sans-serif;
+	}
+	.main_slider .slider_item .slider_text h4 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.main_slider .slider_item .slider_text .main_btn.white {
+		font: bold 16px/48px "Barlow", sans-serif;
+	}
+	.main_slider {
+		height: 600px;
+	}
+	.header_area.menu_three .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		display: none;
+	}
+	.header_area.menu_three .main_menu .navbar.navbar-expand-lg .navbar-brand + .navbar-brand {
+		display: inline-block;
+		box-shadow: none;
+		line-height: 68px;
+		margin: 0px;
+	}
+	.top_menu .top_menu_inner .left {
+		padding-left: 0px;
+	}
+	.main_slider.budget_slider {
+		height: 580px;
+	}
+	.main_slider .slider_item .image_overlay {
+		background-position: center center !important;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .navbar-nav > li {
+		margin-right: 0px;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .navbar-nav > li > a {
+		line-height: 48px;
+		padding: 0px 15px;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .navbar-nav > li > a::before {
+		display: none;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .cart {
+		color: #34373b;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right {
+		margin-left: 0px;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .cart::before {
+		right: auto;
+		top: 12px;
+		left: 50%;
+	}
+	.header_area.menu_four .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .search {
+		color: #34373b;
+	}
+	.header_area.menu_four + section, .header_area.menu_four + div, .header_area.menu_four + footer {
+		margin-top: 125px;
+	}
+	.header_area.menu_six .main_menu .navbar.navbar-expand-lg .navbar-brand + .navbar-brand {
+		display: inline-block;
+	}
+	.header_area.menu_six .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		margin: 0px;
+		display: none;
+	}
+	.header_area.menu_six .main_menu::before {
+		display: none;
+	}
+	.header_area.menu_six .main_menu::after {
+		display: none;
+	}
+	.top_six_menu .top_inner{
+		display: block !important;
+		text-align: center;
+	}
+	.top_six_menu .top_inner .right p + p {
+		margin-right: 0px;
+	}
+	.header_area.menu_six + section, .header_area.menu_six + div, .header_area.menu_six + footer {
+		margin-top: 122px;
+	}
+	.luxuary_slider_area {
+		padding-left: 0px;
+	}
+	.header_area.menu_seven .main_menu {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.header_area.menu_seven + section, .header_area.menu_seven + div, .header_area.menu_seven + footer {
+		margin-top: 72px;
+	}
+	.menu_seven .main_menu .navbar-collapse {
+		background: #0f1114;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-nav li {
+		margin-right: 0px;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-nav li a {
+		line-height: 49px;
+		border-bottom: 1px solid rgba(255, 255, 255, .1);
+		padding: 0px;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .search::before {
+		display: none;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li:last-child {
+		display: none;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li .cart::before {
+		top: 9px;
+		right: auto;
+		left: 50%;
+	}
+	.luxuary_slider_area .luxuary_pagination {
+		left: 12px;
+	}
+	.main_slider.luxuary_slider .slider_item .slider_text {
+		padding-left: 0px;
+	}
+	.main_slider_area .slider_nav {
+		z-index: 30;
+	}
+	.main_slider.luxuary_slider .slider_item.slick-active .slider_text img {
+		width: auto;
+	}
+	.taxi_slider_text .taxi_s_form {
+		margin-left: 0px;
+	} 
+	.taxi_slider_text .left_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+		margin-bottom: 12px;
+	}
+	.taxi_slider_text .left_text p {
+		margin-bottom: 24px;
+	}
+	.main_btn.yellow {
+		line-height: 44px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group input {
+		height: 50px;
+		line-height: 50px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group input::placeholder {
+		line-height: 50px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group .time {
+		height: 50px;
+		line-height: 50px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group .time::after {
+		margin-top: -24px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group .passengers {
+		height: 50px;
+		line-height: 50px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group .passengers::after {
+		margin-top: -24px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group .submit_btn.yellow {
+		line-height: 48px;
+	}
+	.taxi_slider_text .left_text {
+		margin-bottom: 15px;
+	}
+	.middle_menu .middle_menu_inner{
+		display: block !important;
+	}
+	.middle_menu .middle_menu_inner .left{
+		display: none;
+	}
+	.header_area.menu_nine .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		display: inline-block;
+	}
+	.tractor_slider_area .taxi_slider_text .left_text h5 {
+		font: normal 32px "Barlow", sans-serif;
+	}
+	.tractor_slider_area .taxi_slider_text .left_text h3 {
+		font: bold 46px/52px "Barlow", sans-serif;
+		margin-bottom: 20px;
+	}
+	.tractor_slider_area .taxi_slider_text .left_text p {
+		font-size: 22px;
+	}
+	.header_area.menu_nine + section, .header_area.menu_nine + div, .header_area.menu_nine + footer {
+		margin-top: 230px;
+	}
+	.tractor_slider_area .taxi_slider_text .left_text {
+		margin-top: -60px;
+		margin-bottom: 50px;
+	}
+	.main_slider.tractor_slider {
+		height: 840px;
+	}
+	.main_slider.bus_slider.truck_slider {
+		height: 725px;
+	}
+	.find_us_img {
+		display: inline-block;
+		margin-top: 30px;
+	}
+	.header_area.menu_ten + section, .header_area.menu_ten + div, .header_area.menu_ten + footer {
+		margin-top: 122px;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_button .nav.nav-tabs li a:hover, .our_service_area.luxuary_s_car .or_service_inner .service_button .nav.nav-tabs li a.active {
+		font-size: 20px;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_button .nav.nav-tabs li {
+		margin-bottom: 20px;
+	}
+	.l_copyright_inner .row{
+		position: relative;
+	}
+	.l_copyright_inner .row{
+		position: relative;
+		padding-top: 80px;
+	}
+	.l_copyright_inner .row .col-lg-2{
+		position: absolute;
+		left: 0px;
+		top: 10px;
+		width: 100%;
+	}
+	.luxuary_copyright .l_copyright_inner .nav li a {
+		line-height: 40px;
+	}
+	.contact_directly_area {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.contact_directly_area .contact_directly_bg {
+		padding-bottom: 70px;
+		padding-top: 70px;
+	}
+	.luxuary_blog {
+		padding-top: 100px;
+	}
+	.header_area.navbar_fixed.menu_eight .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		padding-left: 0px;
+	}
+	.header_area.navbar_fixed.menu_eight .navbar-light .navbar-toggler {
+		margin-right: 0px;
+	}
+	.expert_area .expert_inner .row {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.expert_area .expert_inner .row .col-lg-4:nth-child(2) .expert_item::after {
+		display: none;
+	}
+	.header_area.menu_two.menu_six .main_menu .navbar.navbar-expand-lg .navbar-nav > li > a {
+		padding: 0px 0px;
+	}
+	.header_area.menu_two.menu_three .main_menu .navbar.navbar-expand-lg .navbar-nav > li > a {
+		padding: 0px 0px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.submenu .dropdown-menu li a {
+		padding: 0px 20px 0px 20px;
+	}
+	.car_video {
+		margin: 50px auto 0px;
+	}
+}
+@media (max-width:767px){
+	.most_service_area .most_service_inner .most_service_img img {
+		width: 100%;
+	}
+	.top_bus_menu {
+		display: none;
+	}
+	.easy_way {
+		margin-top: 0px;
+	}
+	.easy_area {
+		padding-top: 70px;
+	}
+	.header_area.menu_four.menu_five + section, .header_area.menu_four.menu_five + div, .header_area.menu_four.menu_five + footer {
+		margin-top: 124px;
+	}
+	.easy_way .easy_item_inner {
+		overflow: hidden;
+	}
+	.top_menu .top_menu_inner .left p {
+		line-height: 50px;
+		font-size: 13px;
+		padding-right: 12px;
+	}
+	.top_menu .top_menu_inner .right a {
+		font: 600 13px/50px "Barlow", sans-serif;
+		padding: 0px 12px;
+	}
+	.find_car_area {
+		min-height: 700px;
+	}
+	.find_car_area .container .find_car_inner {
+		padding-top: 100px;
+	}
+	.car_product_item{
+		max-width: 285px;
+		margin: auto; 
+	}
+	.header_area.menu_ten .top_bus_menu {
+		display: none;
+	}
+	.drive_item .left .nav li {
+		margin: 0px;
+		margin-right: 18px;
+	}
+	.footer_card .f_card_inner .left p br {
+		display: none;
+	}
+	.footer_copyright .copyright_inner {
+		display: block !important;
+		text-align: center;
+	}
+	.footer_copyright .copyright_inner .right .nav {
+		justify-content: center;
+	}
+	.takes_area .takes_text p br {
+		display: none;
+	}
+	.g_fillter .nav li {
+		margin-right: 15px;
+	}
+	.find_form_inner .find_item {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.market_inner .car_img img {
+		margin-left: 0px;
+	}
+	.top_six_menu .top_inner .right p {
+		font-size: 13px;
+		margin-right: 10px;
+	}
+	.l_collection_inner .main_btn {
+		position: relative;
+		right: 0px;
+		top: 0px;
+		max-width: 136px;
+		margin: auto;
+		padding-top: 4px;
+	}
+	.header_area.menu_five .top_menu .top_menu_inner .right .main_btn {
+		padding: 0px 12px;
+	}
+	.top_six_menu .top_inner .right .main_btn {
+		padding: 0px 7px;
+		margin-left: 10px;
+		border-color: #f75d34;
+		font-size: 13px;
+	}
+	.l_collection_item {
+		max-width: 350px;
+		margin: 0px auto 30px;
+	}
+	.flag_title {
+		text-align: center;
+	}
+	.flag_title h2 img {
+		position: absolute;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+	.feature_car_area .f_car_slider .car_arrow {
+		position: relative;
+		right: 0px;
+		top: 0px;
+		text-align: center;
+	}
+	.feature_car_area {
+		max-height: 100%;
+		padding-bottom: 100px;
+	}
+	.feature_car_area .single_simple_title{
+		text-align: center;
+	}
+	.car_browse_area {
+		padding-top: 100px;
+	}
+	.bus_item{
+		max-width: 350px;
+		margin: 0px auto 30px;
+	}
+	.expert_area .expert_inner .blue_expert {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.expert_area .expert_inner .expert_item {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.car_budget_inner .nav.nav-tabs li {
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+	}
+	.car_budget_inner .tab-pane .price_content .price_km {
+		margin-top: 25px;
+	}
+	.get_cars_area .get_cars_img .get_item {
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+	}
+	.luxuary_video_area {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.luxuary_video_area .car_video {
+		max-width: 100%;
+		
+	}
+	.our_service_area.luxuary_s_car .view_all {
+		position: relative;
+		right: 0px;
+		top: 0px;
+		margin-top: 50px;
+		text-align: center;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_body .tab-pane .service_ex .service_text {
+		padding-right: 20px;
+		padding-left: 20px;
+		padding-bottom: 50px;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_body .tab-pane .service_ex .service_text .main_btn {
+		line-height: 50px;
+		padding: 0px 14px;
+		margin-bottom: 0px;
+		right: 0px;
+		margin-right: 0px;
+		font-size: 20px;
+	}
+	.header_area.menu_three + section, .header_area.menu_three + div, .header_area.menu_three + footer {
+		margin-top: 122px;
+	}
+	.breadcrumb_area {
+		padding: 80px 0px 80px 0px;
+	}
+	.contact_directly_area .contact_directly_bg .reg_form_inner {
+		padding-left: 20px;
+		padding-right: 20px;
+	}
+	.luxuary_blog .latest_bus_inner .view_all {
+		position: relative;
+		right: 0px;
+		top: 0px;
+		margin-top: 30px;
+		width: 100%;
+		text-align: center;
+	}
+	.explore_item .explore_text h4 {
+		font: bold 20px "Barlow", sans-serif;
+	}
+	.explore_item .explore_text {
+		padding-left: 20px;
+		padding-right: 20px;
+		padding-top: 20px;
+	}
+	.explore_item .explore_text a {
+		left: 20px;
+		bottom: 20px;
+	}
+	.quickly_text_part p br {
+		display: none;
+	}
+	.quickly_item .media .media-body h4 {
+		font-size: 20px;
+	}
+	.choose_item h4 {
+		font: bold 20px/30px "Barlow", sans-serif;
+	}
+	.footer_area.orange_footer_area.green_footer{
+		overflow: hidden;
+	}
+	.truck_type_slider .t_type_itme {
+		max-width: 350px;
+		margin: auto;
+	}
+	.cur_club_area .car_club_inner .car_club_text .nav li a {
+		display: block;
+	}
+	.cur_club_area .car_club_inner .car_club_text .nav li {
+		margin-bottom: 16px;
+	}
+	.cur_club_area .car_club_inner .car_club_text .nav li a img {
+		top: 3px;
+	}
+	.find_map_area .finding_map #map-canvas {
+		min-height: 500px;
+	}
+	.product_details_left .product_info a {
+		margin-bottom: 10px;
+	}
+	.product_details_left .product_info {
+		margin-bottom: -10px;
+	}
+	.product_list_item {
+		display: block;
+		max-width: 350px;
+		margin: 0px auto 30px;
+	}
+	.product_list_item .d-flex {
+		padding-right: 0px;
+	}
+	.product_list_item .d-flex img{
+		width: 100%;
+	}
+	.product_list_item .media-body .main_btn {
+		right: 0px;
+		position: relative;
+		top: 0px;
+		margin-top: 15px;
+	}
+	.product_list_item .media-body {
+		padding: 30px 15px;
+	}
+	.product_list_item .media-body .pro_op a {
+		margin-right: 12px;
+	}
+	.product_list_item .media-body .pro_type p {
+		margin-right: 12px;
+	}
+	.product_list_item .media-body h4 {
+		margin-bottom: 15px;
+	}
+	.product_list_item .media-body h6 {
+		margin-bottom: 14px;
+	}
+	.main_slider {
+		height: 500px;
+	}
+	.main_slider_area .slider_nav {
+		display: none;
+	}
+	.top_menu .top_menu_inner{
+		text-align: center;
+		padding-bottom: 0px;
+	}
+	.main_slider.budget_slider .slider_item .slider_text img {
+		width: 100%;
+		max-width: 300px;
+		margin-bottom: 15px;
+	}
+	.main_slider.budget_slider .slider_item .slider_text {
+		margin-top: 0px;
+	}
+	.main_slider .slider_item .budget_brand .km_text {
+		right: -13px;
+		bottom: -30px;
+	}
+	.top_bus_menu .left h6 {
+		line-height: 27px;
+	}
+	.top_bus_menu .right p {
+		display: block;
+		margin-bottom: 0px;
+		margin-left: 0px;
+		color: #d8e0f3;
+		font: normal 15px/28px "Barlow", sans-serif;
+	}
+	.top_bus_menu .d-flex {
+		display: block !important;
+		text-align: center;
+		padding: 10px 0px;
+	}
+	.header_area.menu_four + section, .header_area.menu_four + div, .header_area.menu_four + footer {
+		margin-top: 75px;
+	}
+	.main_slider.bus_slider .slider_item .slider_text h3 {
+		font: 900 42px/50px "Barlow", sans-serif;
+		margin-bottom: 12px;
+	}
+	.main_slider.bus_slider .slider_item .slider_text p {
+		font: normal 16px/28px "Barlow", sans-serif;
+		margin-bottom: 24px;
+		opacity: 0;
+	}
+	.main_slider.bus_slider .slider_item .slider_text .main_btn.orange + .main_btn.orange {
+		background: transparent;
+		margin-left: 0px;
+		margin-top: 10px;
+	}
+	.main_slider.bus_slider .slider_item .slider_text p {
+		max-width: 350px;
+	}
+	.main_slider.bus_slider .slider_item.slick-active .slider_text p br {
+		display: none;
+	}
+	
+	.main_slider.bus_slider .slider_item .slider_text {
+		margin-top: 0px;
+	}
+	.main_slider.luxuary_slider .slider_item .slider_text h2 {
+		font: bold 50px "Barlow", sans-serif;
+	}
+	.main_slider.luxuary_slider .slider_item .slider_text h2::before {
+		height: 54px;
+		width: 64px;
+		left: 65px;
+	}
+	.main_slider.luxuary_slider .slider_item .slider_text h5 {
+		font: 300 44px "Barlow", sans-serif;
+	}
+	.main_slider.luxuary_slider {
+		height: 600px;
+	}
+	.main_slider.luxuary_slider .slider_item .slider_text {
+		margin-top: -60px;
+	}
+	.luxuary_slider_area .luxuary_details .luxuary_d_item {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.luxuary_slider_area .luxuary_details .luxuary_d_item.video_luxuary .luxuary_video_area .car_video {
+		margin-top: 0px;
+		margin-right: 0px;
+		max-width: 100%;
+	}
+	.luxuary_slider_area .luxuary_details {
+		position: relative;
+		flex-wrap: wrap;
+	}
+	.luxuary_slider_area .luxuary_details .luxuary_d_item {
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.luxuary_slider_area .luxuary_details .luxuary_d_item.video_luxuary {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.main_slider.luxuary_slider .slider_item .slider_text {
+		margin-top: 0px;
+	}
+	.luxuary_slider_area .luxuary_pagination {
+		left: auto;
+		top: 23%;
+		right: 20px;
+	}
+	.header_area.menu_eight {
+		margin-top: 0px;
+	}
+	.taxi_slider_text {
+		padding-top: 190px;
+	}
+	.taxi_slider_text .left_text {
+		margin-bottom: 30px;
+	}
+	.middle_menu {
+		display: none;
+	}
+	.header_area.menu_nine + section, .header_area.menu_nine + div, .header_area.menu_nine + footer {
+		margin-top: 72px;
+	}
+	.main_slider.bus_slider.truck_slider {
+		height: 525px;
+	}
+	.main_slider.truck_slider .slider_item .slider_text h6 {
+		font-size: 38px;
+	}
+	.yacht_slider_area .main_slider.bus_slider.truck_slider {
+		height: 600px;
+	}
+	.header_area.menu_ten + section, .header_area.menu_ten + div, .header_area.menu_ten + footer {
+		margin-top: 72px;
+	}
+	.contact_directly_area {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.contact_directly_area .contact_directly_bg {
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
+	.main_slider.bus_slider.classified_slider {
+		height: 600px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu li {
+		width: 33.33%;
+	}
+    .specification_area .right_spec .tab-pane .spec_information{
+        touch-action: auto !important;
+    }
+    .main_contact_inner.trade_container .nav-tabs .nav-item .nav-link{
+        font-size: 14px;
+        padding: 21px 10px;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .title_part {
+        padding: 19px 20px;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .col-lg-3 {
+        max-width: 20%;
+        -ms-flex: 0 0 23%;
+        flex: 0 0 20%;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .col-lg-3:first-child {
+        max-width: 40%;
+        -ms-flex: 0 0 31%;
+        flex: 0 0 40%;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .title_part h3 {
+        font-size: 16px;
+    }
+    .main_contact_inner.trade_container .form_trade {
+        padding: 0px 10px 60px;
+    }
+    .modal-img {
+    border-radius: 20px;
+    box-shadow: 0px 15px 40px 0px rgb(119 195 24);
+    margin-bottom: 25px;
+}
+}
+@media (max-width:600px){
+	.home_service .h_service_item {
+		padding-left: 100px;
+		padding-right: 100px;
+	}
+	.drive_product_view .car_drive_slider .car_arrow .owl-prev {
+		left: 0px;
+	}
+	.drive_product_view .car_drive_slider .car_arrow .owl-next {
+		right: 0px;
+	}
+	.main_slider .slider_item .image_overlay {
+		background-position: center center!important;
+	}
+	.easy_area{
+		overflow: hidden;
+		padding-top: 70px;
+	}
+	.easy_way {
+		overflow: hidden;
+		margin-top: 0px;
+	}
+}
+@media (max-width:575px){
+	.header_area.menu_four.menu_five + section, .header_area.menu_four.menu_five + div, .header_area.menu_four.menu_five + footer {
+		margin-top: 72px;
+	}
+	.expert_area .expert_inner .expert_item:hover::before {
+		transform: scaleY(1);
+	}
+	.main_slider.bus_slider .slider_item .slider_text h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.gallery_widget{
+		max-width: 400px;
+	}
+	.latest_bus_inner {
+		margin-left: -15px;
+		margin-right: -15px;
+	}
+	.top_menu {
+		display: none;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-brand img {
+		width: 100%;
+	}
+	.latest_bus_inner .col-lg-4 {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.dotted_left::before {
+		display: none;
+	}
+	.header_area.navbar_fixed.menu_eight .main_menu .navbar.navbar-expand-lg .nav.navbar-nav.navbar-right li.booking_btn i {
+		left: 2.5px;
+	}
+	.truck_service_area.extra_pad {
+		overflow: hidden;
+	}
+	.top_six_menu {
+		display: none;
+	}
+	.most_service_area .most_service_inner .most_service_img::before {
+		display: none;
+	}
+	.main_slider.repair_slider {
+		height: 500px;
+	}
+	.find_car_area .container .find_car_inner h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.car_video {
+		margin: 50px auto 0px;
+	}
+	.main_slider.bus_slider.classified_slider {
+		height: 500px;
+	}
+	.find_car_area .container .find_car_inner p {
+		font: normal 20px "Barlow", sans-serif;
+		margin-bottom: 34px;
+	}
+	.p_100 {
+		padding-top: 120px;
+		padding-bottom: 70px;
+	}
+	.p_30 {
+    padding-bottom: 70px;
+    }
+	.pad_top{
+		padding-top: 70px;
+	}
+	.pad_btm{
+		padding-bottom: 70px;
+	}
+	.single_title h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.choose_area .single_title {
+		margin-bottom: 80px;
+	}
+	.find_us_text h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.find_us_text .list_finding .nav {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.find_us_text .list_finding .nav:last-child {
+		margin-top: 10px;
+	}
+	.car_drive_area .drive_item{
+		display: block !important;
+		text-align: center;
+	}
+	.drive_item .left .nav {
+		justify-content: center;
+	}
+	.drive_item .right .hourly_toggle .nice_select {
+		background: transparent;
+	}
+	.title_two h2 {
+		font: bold 28px "Barlow", sans-serif;
+	}
+	.title_two {
+		margin-bottom: 50px;
+	}
+	.main_slider.luxuary_slider {
+		height: 500px;
+	}
+	.bike_type_item {
+		margin-bottom: 40px;
+	}
+	.bike_type_inner {
+		margin-bottom: -40px;
+	}
+	.title_two {
+		margin-bottom: 55px;
+	}
+	.l_collection_item .text_body {
+		padding: 28px 10px 25px 10px;
+	}
+	.car_company_slider .car_arrow .owl-prev {
+		left: 0px;
+	}
+	.car_company_slider .car_arrow .owl-next {
+		right: 0px;
+	}
+	.flag_title h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.flag_center_title h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.feature_car_area {
+		padding-bottom: 70px;
+	}
+	.single_simple_title {
+		margin-bottom: 50px;
+	}
+	.single_simple_title h2 {
+		font-size: 32px;
+	}
+	.car_browse_slider .car_arrow .owl-prev {
+		left: 0px;
+	}
+	.car_browse_slider .car_arrow .owl-next {
+		right: 0px;
+	}
+	.client_feedback_area .flag_center_title {
+		margin-bottom: 50px;
+	}
+	.l_blog_item .blog_content {
+		padding: 25px 20px;
+	}
+	.g_fillter .nav li a {
+		font: bold 14px "Barlow", sans-serif;
+	}
+	.counter_area {
+		padding: 70px 0px;
+	}
+	.lowest_price_area h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.lowest_price_area h4 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.lowest_price_area {
+		padding: 70px 0px;
+	}
+	.l_bus_item{
+		max-width: 340px;
+		margin: 0px auto 30px;
+	}
+	.expert_area .expert_inner {
+		max-width: 350px;
+		margin: 70px auto 0px;
+	}
+	.b_f_item .icon {
+		margin: 0px auto 20px;
+	}
+	.our_service_area {
+		padding-bottom: 70px;
+	}
+	.process_form {
+		padding: 35px 15px 45px 15px;
+	}
+	.expert_brand_area .ex_brand_inner .item {
+		flex: 0 0 25%;
+		max-width: 25%;
+	}
+	.quickly_area {
+		padding: 70px 0px 70px 0px;
+	}
+	.quickly_area .quickly_inner h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.quickly_area .quickly_inner p {
+		font: 500 16px/28px "Barlow", sans-serif;
+	}
+	.l_collection_item.grid_four {
+		max-width: 255px;
+	}
+	.compare_item {
+		display: block !important;
+	}
+	.comparisom_slider .compare_item img {
+		width: auto;
+		max-width: 100%;
+		margin: auto;
+	}
+	.comparisom_slider .compare_item .left {
+		margin-bottom: 100px;
+	}
+	.compare_item::after {
+		display: none;
+	}
+	.flag_center_title {
+		margin-bottom: 50px;
+	}
+	.single_dubble_title h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.trusted_taxi_inner .trusted_text h4 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.main_btn.yellow {
+		line-height: 48px;
+	}
+	.car_budget_inner .tab-pane .taxi_text .car_details a {
+		margin-right: 12px;
+	}
+	.car_budget_inner .tab-pane {
+		padding-left: 25px;
+		padding-right: 25px;
+	}
+	.taxi_object .b_f_item{
+		text-align: center;
+		max-width: 255px;
+		margin: 0px auto 30px;
+	}
+	.taxi_object .b_f_item .icon {
+		margin: 0px auto 10px;
+	}
+	.taxi_object {
+		padding: 70px 0px;
+	}
+	.single_dubble_title {
+		margin-bottom: 70px;
+	}
+	.single_title {
+		margin-bottom: 50px;
+	}
+	.taxi_l_item{
+		max-width: 350px;
+		margin: 0px auto 30px;
+	}
+	.get_cars_area .get_car_text h2 {
+		font: normal 32px "Barlow", sans-serif;
+		margin-bottom: 50px;
+	}
+	.luxuary_video_area .car_video .play_btn i {
+		height: 40px;
+		width: 40px;
+		line-height: 40px;
+	}
+	.luxuary_video_area .car_video .play_btn {
+		font-size: 14px;
+	}
+	.luxuary_video_area .car_video .play_btn::before {
+		height: 100px;
+		width: 100px;
+		margin-left: -50px;
+		margin-top: -50px;
+	}
+	.luxuary_video_area .car_video .play_btn::after {
+		height: 70px;
+		width: 70px;
+		margin-left: -35px;
+		margin-top: -35px;
+	}
+	.single_br_title h2 {
+		font: normal 32px "Barlow", sans-serif;
+	}
+	.single_br_title {
+		margin-bottom: 70px;
+	}
+	.single_br_title h2::before {
+		font: bold 100px "Barlow", sans-serif;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_body .tab-pane .service_ex .service_text h4 {
+		font: normal 24px "Barlow", sans-serif;
+	}
+	.contact_directly_area {
+		padding-left: 0px;
+		padding-right: 0px;
+	}
+	.contact_directly_area .contact_directly_bg .contact_info h2 {
+		font: normal 32px "Barlow", sans-serif;
+	}
+	.contact_directly_area .contact_directly_bg .reg_form_inner .contact_form .form-group .border_btn {
+		padding: 0px 10px;
+	}
+	.luxuary_copyright .l_copyright_inner .nav li {
+		margin-right: 14px;
+	}
+	.luxuary_copyright .l_copyright_inner .nav li a {
+		font: normal 14px/40px "Barlow", sans-serif;
+	}
+	.leaf_title h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.leaf_title {
+		margin-bottom: 50px;
+	}
+	.explore_inner{
+		max-width: 350px;
+		margin: 0px auto -30px;
+	}
+	.quickly_text_part h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.quickly_text_part p {
+		font-size: 16px;
+	}
+	.quickly_item .media {
+		padding-bottom: 0px;
+	}
+	.tractor_quickly_area{
+		padding-bottom: 70px;
+	}
+	.quickly_item{
+		max-width: 230px;
+		margin: auto;
+	}
+	.most_service_area .most_service_inner .most_service_text h3 {
+		font: 900 32px "Barlow", sans-serif;
+	}
+	.most_service_text {
+		padding-top: 70px;
+	}
+	.most_service_area .most_service_inner .most_service_img {
+		padding-top: 70px;
+	}
+	.find_yacht_area .find_yacht_inner .contact_form .form-group {
+		margin-bottom: 30px;
+	}
+	.find_yacht_area .find_yacht_inner {
+		padding: 60px 15px 60px 15px;
+	}
+	.boat_title h2 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.boat_title {
+		margin-bottom: 50px;
+	}
+	.auto_market_area .market_text .media{
+		margin-bottom: 30px;
+	}
+	.auto_market_area .market_inner .market_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.b_f_item {
+		max-width: 228px;
+		margin: 0px auto 30px;
+		text-align: center;
+	}
+	.team_item {
+		max-width: 255px;
+		margin: 0px auto 40px;
+	}
+	.breadcrumb_area .breadcrumb_inner h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.breadcrumb_area {
+		padding: 60px 0px 60px 0px;
+	}
+	.blog_item .blog_text {
+		padding: 30px 15px 25px 15px;
+	}
+	.cur_club_area .car_club_inner .car_club_text h4 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.product_details_left .price_title {
+		display: block !important;
+        padding-bottom: 20px;
+	}
+	.car_found {
+		display: block !important;
+        text-align: center;
+        padding-bottom: 30px;
+	}
+	.car_found .right {
+		margin-top: 20px;
+	}
+	.s_comment_list .s_comment_list_inner .media .media-body .media {
+		margin-left: -109px;
+	}
+	.s_comment_list .s_comment_list_inner .media .media-body .media::before {
+		display: none;
+	}
+	.main_menu .navbar-collapse {
+		max-height: 400px;
+		overflow-y: scroll;
+		overflow-x: hidden;
+	}
+	.main_slider .slider_item .slider_text img {
+		width: 100%;
+		max-width: 150px;
+		margin-bottom: 15px;
+	}
+	.main_slider .slider_item .slider_text h6 {
+		font: italic 600 14px/32px "Barlow", sans-serif;
+		padding: 0px 15px;
+		margin-bottom: 10px;
+	}
+	.main_slider .slider_item .slider_text h5 {
+		font: normal 26px "Barlow", sans-serif;
+	}
+	.main_slider .slider_item .slider_text h4 {
+		font: normal 26px "Barlow", sans-serif;
+		margin-bottom: 15px;
+	}
+	.main_slider {
+		height: 450px;
+	}
+	.top_menu .top_menu_inner .left p {
+		display: block;
+		padding-right: 0px;
+		line-height: 30px;
+	}
+	.top_menu .top_menu_inner {
+		padding-top: 5px;
+	}
+	.main_slider.budget_slider {
+		height: 480px;
+	}
+	.main_slider.bus_slider.repair_slider .slider_item .slider_text {
+		margin-top: 10px;
+	}
+	.top_six_menu .top_inner .right p {
+		display: block;
+		line-height: 30px;
+		margin-right: 0px;
+	}
+	.top_six_menu .top_inner {
+		padding: 10px 0px;
+	}
+	.top_six_menu .top_inner .right .main_btn {
+		line-height: 40px;
+		padding: 0px 25px;
+		margin-left: 0px;
+		margin-top: 10px;
+	}
+	.header_area.menu_six + section, .header_area.menu_six + div, .header_area.menu_six + footer {
+		margin-top: 72px;
+	}
+	
+	.car_comparisom_area.tractor_compare {
+		overflow: hidden;
+	}
+	.car_comparisom_area.tractor_compare .comparisom_slider .owl-item.active .item {
+		 padding-right: 30px; 
+	}
+	.main_slider.bus_slider.truck_slider .slider_item .slider_text .main_btn.orange {
+		display: block;
+		line-height: 44px;
+	}
+	.header_area.menu_three + section, .header_area.menu_three + div, .header_area.menu_three + footer {
+		margin-top: 72px;
+	}
+	.easy_way{
+		margin-top: 0px;
+	}
+	.l_blog_item .blog_content h3:before {
+		left: -20px;
+	}
+	.best_bike_area:before {
+		display: none;
+	}
+	.top_menu .top_menu_inner .right a {
+		font: 600 16px/40px "Barlow", sans-serif;
+		padding: 0px 18px;
+		margin-top: 10px;
+	}
+	.header_area.navbar_fixed.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-brand img {
+		width: 100%;
+	}
+	.header_area.menu_seven .main_menu .navbar.navbar-expand-lg .navbar-brand {
+		max-width: 85px;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_button .nav.nav-tabs li a {
+		font-size: 16px;
+	}
+	.our_service_area.luxuary_s_car .or_service_inner .service_button .nav.nav-tabs li {
+		margin-bottom: 0px;
+	}
+	.get_cars_area {
+		padding-top: 70px;
+	}
+	.get_cars_area.pad_btm{
+		padding-bottom: 0px;
+	}
+	.our_service_area.luxuary_s_car {
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu li {
+		width: 50%;
+	}
+    .product_details_left .product_info a{
+        display: block;
+        margin-right: 0;
+        padding-left: 25px;
+    }
+    .main_contact_inner.trade_container .nav-tabs .nav-item {
+        width: 100%;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .col-lg-3:first-child{
+        max-width: 100%;
+        flex: 0 0 100%;
+        background: #fafafa;
+        text-align: center;
+    }
+    .main_contact_inner.trade_container .over_view_list_item.tab_title{
+        display: none;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .col-lg-3{
+        max-width: 100%;
+        flex: 0 0 100%;
+        border-bottom: 1px solid #ededed;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .details_part{
+        text-align: right;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .details_part:before{
+        content: attr(data-title);
+        position: absolute;
+        left: 20px;
+        top: 50%;
+        transform: translateY(-50%);
+        font-weight: 500;
+    }
+    .main_contact_inner.trade_container .over_view_list_item .title_part h4{
+        text-transform: uppercase;
+    }
+    .main_contact_inner.trade_container .over_view_list_item{
+        margin-bottom: 10px;
+    }
+}
+@media (max-width:480px){
+	.cart_sidebar .cart_sidebar_inner {
+		width: 100%;
+	}
+	.s_comment_list .s_comment_list_inner .media .media-body .reply_btn {
+		right: 0px;
+		top: 0px;
+		margin-top: 16px;
+		display: block;
+        position: relative;
+	}
+	.l_blog_item {
+		max-width: 100%;
+		margin: 0px auto 30px;
+	}
+	.top_menu_nine {
+		display: none;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu li {
+		padding-left: 7px;
+		padding-right: 7px;
+	}
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu {
+		padding-left: 7px;
+		padding-right: 7px;
+	}
+	.main_slider.luxuary_slider {
+		height: 450px;
+	}
+	.l_blog_item .blog_img img {
+		width: 100%;
+	}
+	.find_car_area .container .search_car_box .search_car_item {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}	
+	.find_car_area .container .search_car_box .search_car_item:nth-child(2) {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.find_car_area .container .search_car_box .search_car_item:nth-child(3) {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.find_car_area .container .search_car_box .search_car_item:nth-child(4) {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.search_car_box .search_car_item:first-child{
+		margin-bottom: 1rem;
+	}
+	.find_car_area .container .find_car_inner h2 {
+		font: bold 28px "Barlow", sans-serif; 
+	}
+	.drive_item .left .nav li {
+		margin: 0px;
+		margin-right: 14px;
+	}
+	.drive_item .left .nav li a {
+		font: 600 14px/26px "Barlow", sans-serif;
+	}
+	.download_app_area .download_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.download_app_area .download_text .google {
+		margin-right: 0px;
+		display: block;
+		margin-bottom: 15px;
+	}
+	.top_ques_inner .accordion .card .card-header button {
+		font: 600 18px/30px "Barlow", sans-serif;
+		padding: 12px 0px;
+	}
+	.top_ques_inner .accordion .card .card-header button i {
+		position: relative;
+		right: 0px;
+		top: 0%;
+		transform: translateY(0%);
+		padding-left: 5px;
+	}
+	.footer_card .f_card_inner {
+		text-align: center;
+	}
+	.footer_card .f_card_inner .right ul{
+		justify-content: center;
+	}
+	.footer_card .f_card_inner {
+		padding: 16px 7px;
+	}
+	.search_car .select_item {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.search_car .select_item:last-child {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.feature_bike_area .feature_bike_slider .item .bike_s_item .bike_text {
+		margin-top: 0px;
+	}
+	.takes_area .takes_text h3 {
+		font: bold 32px "Barlow", sans-serif;
+	}
+	.takes_area {
+		padding-top: 70px;
+		padding-bottom: 70px;
+	}
+	.takes_area .takes_text .main_btn {
+		line-height: 50px;
+	}
+	.g_fillter .nav li a {
+		padding-bottom: 8px;
+	}
+	.g_fillter .nav li {
+		margin-bottom: 15px;
+	}
+	.find_form_inner .find_item {
+		flex: 0 0 100%;
+		max-width: 100%;
+	}
+	.market_inner .car_img .nav li h4 {
+		font: bold 26px "Barlow", sans-serif;
+		margin-bottom: 0px;
+		margin-top: 14px;
+	}
+	.market_text h3 {
+		font: bold 24px "Barlow", sans-serif;
+	}
+	.owl-carousel .owl-item img {
+		max-width: 100%;
+	}
+	.client_item p {
+		font: normal italic 16px/28px "Barlow", sans-serif;
+	}
+	.bus_item .bus_body h4 {
+		font: bold 20px "Barlow", sans-serif;
+	}
+	.bus_item .bus_body {
+		padding: 30px 20px 22px 20px;
+	}
+	.car_about_inner .c_ab_text .sing {
+		float: none;
+		margin-right: 0px;
+		margin-top: 30px;
+	}
+	.car_about_inner .c_ab_text .blockquote {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.car_about_inner .c_ab_text p {
+		padding-right: 0px;
+	}
+	.process_left_text .media .media-body p {
+		padding-right: 0px;
+	}
+	.expert_brand_area .ex_brand_inner .item {
+		flex: 0 0 33.33%;
+		max-width: 33.33%;
+	}
+	.car_budget_inner .nav.nav-tabs li {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.get_cars_area .get_cars_img .get_item {
+		flex: 0 0 50%;
+		max-width: 50%;
+		margin-bottom: 15px;
+	}
+	.get_cars_area .get_cars_img{
+		margin-bottom: -15px;
+	}
+	.hire_truck_inner {
+		padding: 50px 20px;
+	}
+	.hire_truck_inner .contact_form .form-group .submit_btn {
+		line-height: 48px;
+	}
+	.hire_truck_inner h3 {
+		font: bold 28px "Barlow", sans-serif;
+	}
+	.truck_video .car_about_inner .c_ab_text h3 {
+		font: bold 25px "Barlow", sans-serif;
+	}
+	.truck_check .truck_check_inner .truck_check_left {
+		padding-left: 40px;
+	}
+	.truck_check .truck_check_inner .truck_check_left img {
+		z-index: -1;
+	}
+	.truck_check .truck_check_inner .truck_check_left h6 {
+		color: #fff;
+	}
+	.truck_check .truck_check_inner .truck_check_right {
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+	.truck_type_slider .t_type_itme .t_type_text .left p {
+		font-size: 14px;
+	}
+	.car_about_area.truck_video .car_about_inner .dubble_img img + img {
+		float: none;
+		margin-right: 0px;
+		width: 100%;
+		margin-top: 20px;
+	}
+	.car_about_area.truck_video .car_about_inner .dubble_img img {
+		width: 100%;
+	}
+	.all_yacht_item .yacht_text {
+		display: block !important;
+	}
+	.all_yacht_item .yacht_text .right {
+		text-align: left;
+	}
+	.all_yacht_item::before {
+		height: 148px;
+	}
+	.all_yacht_item:hover .view_btn {
+		top: 30%;
+	}
+	.all_yacht_item .yacht_text h6 {
+		margin-bottom: 10px;
+	}
+	.all_yacht_item .yacht_text h4 {
+		margin-bottom: 10px;
+	}
+	.all_yacht_item .view_btn {
+		top: 40%;
+	}
+	.auto_market_area .market_inner .market_text .tab-pane .media .media-body p {
+		padding-right: 20px;
+	}
+	.blog_item .blog_text h3 {
+		font: bold 28px "Barlow", sans-serif;
+	}
+	.order_box_price .payment_list {
+		padding: 30px 15px;
+	}
+	.cur_club_area .car_club_inner .car_club_text .main_btn.border {
+		margin-left: 0px;
+		margin-top: 15px;
+	}
+	.cur_club_area .car_club_inner .car_club_text .main_btn {
+		display: block;
+		width: 200px;
+		text-align: center;
+	}
+	.finding_list .find_loc_itme .media .media-body p br {
+		display: none;
+	}
+	.truck_check .truck_check_inner .truck_check_left.red h6 {
+		color: #fff;
+	}
+	.clear_filter .tags_f a {
+		margin-bottom: 3px;
+	}
+	.pagination ul li a {
+		height: 30px;
+		width: 30px;
+		line-height: 30px;
+	}
+	.create_account_box {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.single_blog_inner .blog_item .blog_text .tags .nav li a {
+		padding: 0px 6px;
+		margin-bottom: 3px;
+	}
+	.author_details .media{
+		display: block;
+	}
+	.author_details .media .d-flex{
+		padding-right: 0px;
+		margin-bottom: 20px;
+	}
+	.s_comment_list .s_comment_list_inner .media {
+		display: block;
+	}
+	.s_comment_list .s_comment_list_inner .media .d-flex {
+		padding-right: 0px;
+		margin-bottom: 20px;
+	}
+	.s_comment_list .s_comment_list_inner .media .media-body .media {
+		margin-left: 0px;
+		padding-left: 0px;
+		padding-bottom: 0px;
+		padding-top: 50px;
+	}
+	.main_slider.budget_slider .slider_item .slider_text img {
+		width: 100%;
+		max-width: 250px;
+		margin-bottom: 15px;
+	}
+	.main_slider .slider_item .budget_brand .km_text {
+		height: 100px;
+		width: 100px;
+	}
+	.main_slider .slider_item .budget_brand .km_text h4 {
+		font: bold 26px "Barlow", sans-serif;
+	}
+	.main_slider.bus_slider.repair_slider .slider_item .slider_text h3 {
+		font: 900 36px/50px "Barlow", sans-serif;
+	}
+	.luxuary_slider_area .luxuary_details .luxuary_d_item {
+		flex: 0 0 100%;
+		max-width: 100%;
+		border: none;
+	}
+	.luxuary_slider_area .luxuary_pagination {
+		left: auto;
+		top: 15%;
+		right: 20px;
+	}
+	.taxi_slider_text .taxi_s_form .contact_form .form-group .submit_btn.yellow {
+		padding: 0px 10px;
+	}
+	.tractor_slider_area .taxi_slider_text .left_text h3 {
+		font: bold 32px/44px "Barlow", sans-serif;
+		margin-bottom: 10px;
+	}
+	.yacht_slider_area .main_slider.bus_slider .slider_item .slider_text h3 {
+		font: 900 36px/50px "Barlow", sans-serif;
+	}
+	.easy_way .easy_item_inner .easy_item a,.product_details_left .price_title .left{
+		display: block;
+	}
+	.easy_way .easy_item_inner .easy_item img {
+		max-width: 70%;
+	}
+	.main_slider.bus_slider .slider_item .slider_text h3 {
+		font: 900 32px/50px "Barlow", sans-serif;
+	}
+    .product_details_left .price_title .left .review_link{
+        margin-bottom: 0;
+    }
+    .product_details_left .price_title .left h3{
+        margin-bottom: 5px;
+    }
+    .form_container {
+        padding: 80px 20px;
+    }
+    .main_contact_inner.rate_container{
+        padding: 20px;
+    }
+    .main_contact_inner .contact_form .form-group{
+        margin-bottom: 10px;
+    }
+}
+@media (max-width: 400px){
+	.main_menu .navbar.navbar-expand-lg .navbar-nav li.mega_menu .dropdown-menu li {
+		width: 50%;
+	}
+	.top_menu_nine .top_menu_inner {
+		display: block !important;
+		text-align: center;
+	}
+	.top_menu_nine .top_menu_inner .nav {
+		justify-content: center;
+	}
+	.l_collection_item.grid_four {
+		max-width: 100%;
+	}
+	.l_collection_item .car_img img {
+		width: 100%;
+	}
+}
+@media (max-width: 360px){
+	.brand_inner .brand_item h4 {
+		font: normal 14px "Barlow", sans-serif;
+	}
+	.easy_way .easy_item_inner .easy_item {
+		flex: 0 0 100%;
+		max-width: 100%;
+		padding:20px 0px;
+	}
+	.easy_way .easy_item_inner::before {
+		display: none;
+	}
+	.easy_way .easy_item_inner::after {
+		display: none;
+	}
+	.easy_way .easy_item_inner {
+		padding-top: 20px;
+		padding-bottom: 20px;
+	}
+	.expert_brand_area .ex_brand_inner .item {
+		flex: 0 0 50%;
+		max-width: 50%;
+	}
+	.all_yacht_item::before {
+		height: 100%;
+	}
+	.all_yacht_item .yacht_text {
+		padding-left: 15px;
+		padding-right: 15px;
+	}
+	.all_yacht_item .yacht_text {
+		bottom: auto;
+		top: 45%;
+		transform: translateY(-50%);
+	}
+	.all_yacht_item .view_btn {
+		opacity: 1;
+		visibility: visible;
+		top: auto;
+		bottom: 0px;
+	}
+	.all_yacht_item:hover .view_btn {
+		top: auto;
+		bottom: 0px;
+	}
+	.auto_market_area .market_inner .market_text .nav.nav-tabs li a {
+		padding: 0px 15px;
+		font-size: 14px;
+	}
+	.auto_market_area .market_inner .market_text h3 {
+		font: bold 26px "Barlow", sans-serif;
+	}
+	.blog_item .blog_text .cat_area a {
+		margin-right: 7px;
+	}
+}
